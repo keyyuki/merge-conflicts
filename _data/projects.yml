@@ -14,3 +14,10 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  
+# Merger conflicts
+- project: Merger conflicts
+  role: Contributor
+  duration: 2020 &mdash; Present
+  url: "https://github.com/keyyuki/merge-conflicts"
+  description: A learning repository to know how to resolve git conflicts.
